@@ -1,8 +1,8 @@
 /**
- * Code for thinning a binary image using Zhang-Suen algorithm.
+ * Code for thinning a binary image using Zhang-Suen algorithm，and then using BFS to find the path.
  *
- * Author:  Nash (nash [at] opencv-code [dot] com)
- * Website: http://opencv-code.com
+ * Author:  ChuXiang
+ * 
  */
 #include <opencv2/opencv.hpp>
 #include "iostream"
